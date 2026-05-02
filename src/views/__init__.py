@@ -1,0 +1,1 @@
+from .people_finder_view import PeopleFinderView
