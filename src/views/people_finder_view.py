@@ -23,7 +23,7 @@ class PeopleFinderView:
         os.system('clear')
 
         success_message = f'''
-            Pessoa encontrada!
+            Pessoa encontrada com sucesso!
 
             Infos: 
                 Nome: {message["attributes"]["name"]}
